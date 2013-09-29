@@ -1,6 +1,9 @@
 dropwizard-helloworld
 =====================
 
+Changing Read Me File.
+
+
 $ mvn clean package
 
 $ bin/run.sh 
